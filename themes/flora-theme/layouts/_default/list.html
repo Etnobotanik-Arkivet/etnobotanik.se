@@ -10,10 +10,7 @@
 	{{ $section_name := index (.Site.Params.mainSections) 0 }}
 
 	<div class="grid">
-		{{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
-		{{ $n_posts := $.Param "recent_posts_number" | default 3 }}
-
-		 {{ range (first $n_posts $section) }}
+		 {{ range $section }}
 		 		{{ partial "summary.html" . }}
 		 {{ end }}
 	</div>
