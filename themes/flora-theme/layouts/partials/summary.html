@@ -1,3 +1,10 @@
-<a href="{{ .URL }}" class="link black dim">
-  {{ .Title }}
+{{ $featured_image := .Params.featured_image }}
+<a href="{{ .URL }}">
+    <article class="summary">
+    {{ if .Params.featured_image }}
+      {{ $featured_image := (trim $featured_image "/") | absURL }}
+      <div class="background" style="background-image: url({{ $featured_image }})"></div>
+    {{ end }}
+    <span>{{ .Title }}</span>
+  </article>
 </a>

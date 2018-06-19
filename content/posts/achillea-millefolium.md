@@ -1,6 +1,7 @@
 +++
 title = "Rölleka"
 subtitle = "Achillea millefolium"
+featured_image = "/img/achillea-millefolium-1.jpg"
 +++
 
 ![](/img/achillea-millefolium-1.jpg)

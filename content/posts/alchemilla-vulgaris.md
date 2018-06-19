@@ -1,6 +1,7 @@
 +++
 title = "Daggkåpa"
 subtitle = "Alchemilla vulgaris"
+featured_image = "/img/alchemilla-vulgaris-1.jpg"
 +++
 
 ![](/img/alchemilla-vulgaris-1.jpg)

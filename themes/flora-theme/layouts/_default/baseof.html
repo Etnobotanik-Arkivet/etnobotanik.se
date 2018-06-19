@@ -17,42 +17,19 @@
 
   <meta name="application-name" content="{{ .Site.Title }}">
   <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
-  <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif" media="not all" onload="if (media != 'all')media='all'">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif|Catamaran:700" media="not all" onload="if (media != 'all')media='all'">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" media="not all" onload="if (media != 'all') media = 'all'">
   <link rel="stylesheet" href="/css/style.css">
 
-  {{ partial "favicons.html" . }}
-
   <meta name="description" content="{{ i18n "companyDescription" }}">
   <meta property="fb:admins" content="{{ .Site.Data.social.fbAdmins }}">
-
-  {{ partial "open-graph.html" . }}
-  {{ partial "twitter-card.html" . }}
-
-  {{ if eq $.Site.LanguageCode "en" }}
-  <link rel="alternate" hreflang="sv" href="http://vufuzi.se">
-  {{ end }}
-
-  {{ if eq $.Site.LanguageCode "sv" }}
-  <link rel="alternate" hreflang="en" href="http://vufuzi.com">
-  {{ end }}
 
   {{ .Hugo.Generator }}
 </head>
 <body>
 {{ block "header" . }}
   {{ partial "header.html" . }}
-{{ end }}
-
-{{ if .IsHome }}
-<div class="site-info">
-  <h1 class="site-title">Vufuzi</h1>
-  <p class="site-description">
-    {{ i18n "companyDescription" }}
-  </p>
-</div>
 {{ end }}
 
 <main role="main">
@@ -63,6 +40,5 @@
 {{ end }}
 <script src="/js/main.js" async defer></script>
 {{ template "_internal/google_analytics_async.html" . }}
-{{ partial "ld+json.html" . }}
 </body>
 </html>
