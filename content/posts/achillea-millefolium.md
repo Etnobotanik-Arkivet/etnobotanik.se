@@ -4,7 +4,9 @@ subtitle = "Achillea millefolium"
 featured_image = "/img/achillea-millefolium-1.jpg"
 +++
 
-![](/img/achillea-millefolium-1.jpg)
+![](/img/achillea-millefolium-3.jpg)
+
+[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 
@@ -16,7 +18,7 @@ Namnet Achillea torde härröra från det gamla trojanska riket, då Akilles, so
 
 Röllekans blad är smala, aromatiska och fjäderlika. De är mörkt grågröna och är vitamin och mineralrika. Dess blommor är små, gräddvita, ibland rosa med nästan platta blomkvastar som har en pikant doft under sommar och höst. De torkade bladen avger en mild salvialik doft.
 
-![](/img/achillea-millefolium-2.jpg)
+![](/img/achillea-millefolium-1.jpg)
 
 ## Användning
 
@@ -25,6 +27,8 @@ Röllekans friska blad kan tuggas för att motverka tandvärk. Te på bladen hj�
 OBS! Långvarig användning kan göra huden ömtålig för starkt ljus.
 
 De något bittra bladen kan finhackas och strös i sallad. Bladen har en kryddig smak och passar utmärkt i ost-dipsås.
+
+![](/img/achillea-millefolium-2.jpg)
 
 ## Odling
 

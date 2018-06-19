@@ -4,13 +4,15 @@ subtitle = "Anethum graveolens"
 featured_image = "/img/anethum-graveolens-1.jpg"
 +++
 
-![](/img/anethum-graveolens-1.jpg)
+![](/img/anethum-graveolens-3.jpg)
+
+[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 
 För länge sedan använde egyptierna dill som lugnande medicin, och grekerna sade att dillen stillar hicka. På medeltiden ingick dill bland midsommarnattens örter mot häxeri, och vanligt folk gjorde sitt vin till kärleksdryck genom att tillsätta dill.
 
-![](/img/anethum-graveolens-2.jpg)
+![](/img/anethum-graveolens-1.jpg)
 
 ## Användning
 
@@ -19,6 +21,8 @@ Dillens frön kan användas hela eller malda till soppor, fiskrätter, inläggni
 Som skönhetsmedel kan avkok på krossat frö stärka nagelbanden. Tugga frön för god andedräkt.
 
 Dillens frö används för sina mineralsalter i saltfria dieter. Drick dillvatten för matsmältningen, mot hicka, väderspänning, magkramp, kolik och sömnlöshet. Kan också användas som mjölkstimulerande medel för ammande mödrar. Använd 15 gram krossat frö till en tekopp kokande vatten för att göra dillvatten. Dosering är 1 msk till vuxna och 1 tsk till spädbarn.
+
+![](/img/anethum-graveolens-2.jpg)
 
 ## Odling
 

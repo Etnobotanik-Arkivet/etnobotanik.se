@@ -4,13 +4,15 @@ subtitle = "Angelica archangelica"
 featured_image = "/img/angelica-archangelica-1.jpg"
 +++
 
-![](/img/angelica-archangelica-1.jpg)
+![](/img/angelica-archangelica-3.jpg)
+
+[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 
 I nordeuropeiska länder har kvanne med sin starka arom sedan gamla tider använts som universalmedicin. Det botaniska namnet anses härleda sig till örtens blomningstid, som enligt den förgregorianska kalendern inträffade kring Mikaeli. På den dagen skulle ärkeängeln Mikael dessutom ha uppenbarat sig för att prisa kvannens makt mot ondskan. Den fuktighetsälskande kvannen har sin hemort på sanka ängar och flodbäddar. De stora bladen förefaller tropiska och ger trädgården ett lummigt intryck.
 
-![](/img/angelica-archangelica-2.jpg)
+![](/img/angelica-archangelica-1.jpg)
 
 ## Användning
 
@@ -19,6 +21,8 @@ Kvannens frön kan krossas och blandas med krossad stjälk för att smaksätta d
 Med kvannens frön kan du parfymera rummet genom att bränna dessa i en stekpanna. Kvannens blad passar bra i potpurrier. Ur roten kan på våren en snitt skäras och en väldoftande vätska tappas, denna kan användas som bindemedel i potpurri.
 
 Som läkemedel kan man göra te på kvannens färska eller torkade blad, detta te är bra mot hosta, snuva och väderspänning. Krossade blad gör luften frisk i bilden och minskar risken för åksjuka.
+
+![](/img/angelica-archangelica-2.jpg)
 
 ## Odling
 

@@ -4,13 +4,15 @@ subtitle = "Anthriscus cerefolium"
 featured_image = "/img/anthriscus-cerefolium-1.jpg"
 +++
 
-![](/img/anthriscus-cerefolium-1.jpg)
+![](/img/anthriscus-cerefolium-3.jpg)
+
+[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 
 Den blygsamma danska körveln har länge varit förbisedd, men med sin fina och säregna smak av persilja och ett stänk av myrra blir den nu alltmer omtyckt igen. Den tillhör de traditionella _fines herbes_, oumbärliga i det franska köket, och är en frisk grön tillgång på varje matbord. De fjäderlika bladen smakar mest om plantorna får växa i halvskugga. I månsken ger de lätta vita blommorna ett magiskt skimmer åt örtagården under försommar och höst. Odla flera tillsammans i en skir grupp.
 
-![](/img/anthriscus-cerefolium-2.jpg)
+![](/img/anthriscus-cerefolium-1.jpg)
 
 ## Användning
 
@@ -19,6 +21,8 @@ Den danska körvelns blad kan användas rikligt i soppor, såser och sallader, b
 Gör avkok eller ansiktsmask av bladen för rengöring av hyn, för att mjuka upp och för att motverka rynkor.
 
 Som läkemedel kan körvelns blad ätas råa, de innehåller C-vitamin, karotin, järn och magnesium. Gör te på bladen som hjälper levern, blodomloppet, matsmältningen och kronisk snuva. Traditionellt dricks te av bladen på skärtorsdagen om sträkande medel efter fastan.
+
+![](/img/anthriscus-cerefolium-2.jpg)
 
 ## Odling
 
