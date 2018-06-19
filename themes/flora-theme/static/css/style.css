@@ -99,11 +99,8 @@ article.summary {
   justify-content: flex-start;
   box-sizing: border-box;
   overflow: hidden;
-  transition: all 150ms ease;
-}
-
-article.summary:hover {
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+  transition: all 200ms ease;
+  contain: strict;
 }
 
 article.summary span {
@@ -114,18 +111,38 @@ article.summary span {
   width: 100%;
   padding: 10px;
   font-size: 1.2em;
+  transition: all 200ms ease;
+  opacity: 1;
 }
 
 article.summary .background {
   position: absolute;
-  top: 0;
+  top: -25%;
   left: 0;
   bottom: 0;
   right: 0;
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   z-index: 0;
   opacity: 0.7;
+  transition: all 200ms ease;
+  filter: grayscale(20%) contrast(50%);
+}
+
+article.summary:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+article.summary:hover .background {
+  opacity: 1;
+  transform: translateY(20%);
+  filter: none;
+}
+
+article.summary:hover span {
+  opacity: 0;
+  transform: translateY(40%);
 }
 
 .grid {
