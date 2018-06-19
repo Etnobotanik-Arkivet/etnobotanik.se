@@ -64,6 +64,8 @@ main > article h1 {
 main > article img {
   border: 10px solid white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  max-height: 60vh;
+  max-width: 90%;
 }
 
 body > footer {
