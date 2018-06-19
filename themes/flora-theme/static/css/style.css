@@ -1,0 +1,58 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-image: url(/img/light-paper.png);
+  font-size: 16px;
+}
+
+body > header {
+  background: linear-gradient(rgba(136,90,62,0.5), rgba(96,48,19,0.5) 70%, rgba(136,90,62,0.5)), url(/img/dark-paper.png);
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header nav a {
+  color: hsl(45, 74%, 76%);
+  text-decoration: none;
+  padding: 1em 0.8em;
+  letter-spacing: 1px;
+  display: block;
+}
+
+header a:hover {
+  color: hsl(41, 84%, 68%);
+}
+
+article {
+  margin: 1rem;
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 12px;
+  padding: 24px;
+  font-family: 'Droid Serif', 'Times New Roman', serif;
+}
+
+article header {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: baseline;
+}
+
+article header span {
+  margin-left: 0.5em;
+  font-size: 0.8rem;
+}
+
+article h1 {
+  margin: 0;
+}
+
+article img {
+  border: 10px solid white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}

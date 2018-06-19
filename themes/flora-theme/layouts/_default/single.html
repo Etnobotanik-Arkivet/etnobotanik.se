@@ -1,0 +1,13 @@
+{{ define "main" }}
+	<article>
+		<header>
+			<h1>{{ .Title }}</h1>
+			<span>{{ .Params.Subtitle }}</span>
+		</header>
+		{{ .Content }}
+
+		{{ if isset .Params "social" }}
+			{{ partial "social-media.html" }}
+		{{ end }}
+	</article>
+{{ end }}

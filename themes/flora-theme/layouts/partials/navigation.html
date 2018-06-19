@@ -1,0 +1,13 @@
+<header>
+	<nav role="navigation">
+		<a href="{{ .Site.BaseURL }}">
+			Hem
+		</a>
+		<a href="{{ .Site.BaseURL }}/posts">
+			Växter
+		</a>
+		{{ range .Site.Menus.main }}
+			<a href="{{.URL}}"> {{ .Name }} </a>
+		{{ end }}
+	</nav>
+</header>
