@@ -1,8 +1,9 @@
-+++
+---
 title = "Brännässla"
 subtitle = "Urtica dioica"
 featured_image = "/img/urtica-dioica-1.jpg"
-+++
+plant_length = "30-130"
+---
 
 ![](/img/urtica-dioica-3.jpg)
 

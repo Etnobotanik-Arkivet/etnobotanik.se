@@ -1,8 +1,9 @@
-+++
+---
 title = "Vildselleri"
 subtitle = "Apium graveolens"
 featured_image = "/img/apium-graveolens-1.jpg"
-+++
+plant_length = "20-80"
+---
 
 ![](/img/apium-graveolens-3.jpg)
 

@@ -1,8 +1,9 @@
-+++
+---
 title = "Nattljus"
 subtitle = "Oenothera biennis"
 featured_image = "/img/oenothera-biennis-1.jpg"
-+++
+plant_length = "80-200"
+---
 
 ![](/img/oenothera-biennis-3.jpg)
 

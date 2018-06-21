@@ -1,8 +1,9 @@
-+++
+---
 title = "Rölleka"
 subtitle = "Achillea millefolium"
 featured_image = "/img/achillea-millefolium-1.jpg"
-+++
+plant_length = "15-60"
+---
 
 ![](/img/achillea-millefolium-3.jpg)
 

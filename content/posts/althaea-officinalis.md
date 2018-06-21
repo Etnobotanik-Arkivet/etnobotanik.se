@@ -1,8 +1,9 @@
-+++
+---
 title = "Läkemalva"
 subtitle = "Althaea officinalis"
 featured_image = "/img/althaea-officinalis-1.jpg"
-+++
+plant_length = "-200"
+---
 
 ![](/img/althaea-officinalis-3.jpg)
 

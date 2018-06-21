@@ -1,8 +1,9 @@
-+++
+---
 title = "Dill"
 subtitle = "Anethum graveolens"
 featured_image = "/img/anethum-graveolens-1.jpg"
-+++
+plant_length = "20-100"
+---
 
 ![](/img/anethum-graveolens-3.jpg)
 

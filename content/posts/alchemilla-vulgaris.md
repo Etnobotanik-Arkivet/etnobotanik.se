@@ -1,8 +1,9 @@
-+++
+---
 title = "Daggkåpa"
 subtitle = "Alchemilla vulgaris"
 featured_image = "/img/alchemilla-vulgaris-1.jpg"
-+++
+plant_length = "10-40"
+---
 
 ![](/img/alchemilla-vulgaris-3.jpg)
 
