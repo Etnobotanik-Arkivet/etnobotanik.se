@@ -1,8 +1,8 @@
 ---
-title = "Citronverbena"
-subtitle = "Aloysia triphylla"
-featured_image = "/img/aloysia-triphylla-1.jpg"
-plant_length = "50-100"
+title: "Citronverbena"
+subtitle: "Aloysia triphylla"
+featured_image: "/img/aloysia-triphylla-1.jpg"
+plant_length: "50-100"
 ---
 
 ![](/img/aloysia-triphylla-1.jpg)

@@ -1,8 +1,8 @@
 ---
-title = "Kvanne"
-subtitle = "Angelica archangelica"
-featured_image = "/img/angelica-archangelica-1.jpg"
-plant_length = "100-200"
+title: "Kvanne"
+subtitle: "Angelica archangelica"
+featured_image: "/img/angelica-archangelica-1.jpg"
+plant_length: "100-200"
 ---
 
 ![](/img/angelica-archangelica-3.jpg)

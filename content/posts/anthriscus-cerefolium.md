@@ -1,8 +1,8 @@
 ---
-title = "Dansk körvel"
-subtitle = "Anthriscus cerefolium"
-featured_image = "/img/anthriscus-cerefolium-1.jpg"
-plant_length = "20-35"
+title: "Dansk körvel"
+subtitle: "Anthriscus cerefolium"
+featured_image: "/img/anthriscus-cerefolium-1.jpg"
+plant_length: "20-35"
 ---
 
 ![](/img/anthriscus-cerefolium-3.jpg)
