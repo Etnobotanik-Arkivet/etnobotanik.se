@@ -1,6 +1,7 @@
 ---
 title: "Kråkbär"
 subtitle: "Émpetrum nigrum"
+featured_image: "/img/empetrum-nigrum-1.jpg"
 plant_length: "10-20"
 ---
 
