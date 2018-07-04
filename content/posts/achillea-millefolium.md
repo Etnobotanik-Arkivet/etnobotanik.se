@@ -21,6 +21,8 @@ Röllekans blad är smala, aromatiska och fjäderlika. De är mörkt grågröna 
 
 ![](/img/achillea-millefolium-1.jpg)
 
+[_Bild från romanhoertner via Pixabay_](https://pixabay.com/sv/achillea-millefolium-yarrow-white-1524795/)
+
 ## Användning
 
 Röllekans friska blad kan tuggas för att motverka tandvärk. Te på bladen hjälper mot matsmältningsbesvär, mot häftig menstruation, för att framkalla svettning, för inre rening och mot förkylning. Använd avkok för små sår, mot hudsprickor, finnar och inflammerat tandkött.
@@ -30,6 +32,9 @@ OBS! Långvarig användning kan göra huden ömtålig för starkt ljus.
 De något bittra bladen kan finhackas och strös i sallad. Bladen har en kryddig smak och passar utmärkt i ost-dipsås.
 
 ![](/img/achillea-millefolium-2.jpg)
+
+
+[_Bild från WikimediaImages via Pixabay_](https://pixabay.com/sv/achillea-millefolium-yarrow-844587/)
 
 ## Odling
 
