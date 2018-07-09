@@ -47,3 +47,5 @@ Skvattram irriterar slämmhinnor. Stora doser kan i sällsynta fall leda till d�
 Latinska namnet var tidigare _Ledum palustre_. Lokala namn på växten är bockhorn, bockkpors (Nyland, Finland), getblomma, getpors, klammerris, käglabuske (Götaland & Svenskfinland), lummer, mykrona, myrkull, myrris, skvackor, skvateonris, svikra, skväckare och vild skogsmarin.
 
 På finska heter växten Suopursu och på norska kallas den Finnmarkspors.
+
+[Se programmet Blomsterspråks avsnitt om Skvattram i Öppet arkiv från SVT](https://www.oppetarkiv.se/video/1141662/blomstersprak)
