@@ -21,9 +21,15 @@ Skvattram är en strakt doftande växt som blommar med vita blommor under juni o
 
 Har förr i tiden använts tämligen vanligt vid ölbryggning istället för humle - men har då orsakat huvudvärk. Kläder har förvarats i bommulspåse med skvattramkvistar i som ska ha skyddat mot klädesmalens larver. Detta har även gett växten smeknamnet Klädpors. Svinpors även kallas, då löss på svin bekämpats genom tvättning med en dekokt på skvattram.
 
-Athabaskerna använder löven för att göra "labradorte". Andra för att krydda kött genom att dränka detta i dekokt av skvattram. Indianer använde växten för att göra ett te som skulle hjälpa mot förskylningar och hosta.
+Athabaskerna kryddade kött genom att koka detta med skvattram. Indianer använde växten för att göra ett te som skulle hjälpa mot förskylningar och hosta.
 
 Under 1700-talet användes skvattram för att smaksätta öl i Tyskland. Detta blev senare förbjudet då folk blev aggressiva av detta öl.
+
+Skvattram ska även kunna användas för att avvörja myggor - skogens egen myggmedel alltså! Man ska gnugga färska blad mot huden så den blir grön och ger då en myggavvisande effekt i ca 30 minuter. Detta ska vara bland de bästa naturliga myggmedlen i Sverige.
+
+Skvattram ska vara en populär berusningsväxt bland Sibiriens olika folk - där shamaner använder stark avkok från växten inför olika ritualer för att komma i kontakt med andevärlden. En koncentrerad drog av skvattram sägs framkalla hallaucunationer då växten innehåller ledol som påverkar det centrala nervsystemet.
+
+Som afrodisiakum skall växten också kunna användas. Experiment från professon Hugo Schultz utförde på 1900-talet visade på att skvattram gav "mycket besvärliga, häftiga och långvariga erektioner" och försäkt menstruation hos kvinnor. "Fantastiska och erotiskt färgade drömmar störde nattron, och riklig nattsvett uppträdde upprepade gånger."
 
 ![](/img/rhododendron-tomentosum-2.jpg)
 
