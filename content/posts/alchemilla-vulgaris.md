@@ -2,7 +2,7 @@
 title: "Daggkåpa"
 subtitle: "Alchemilla vulgaris"
 featured_image: "/img/alchemilla-vulgaris-1.jpg"
-plant_length: "10-40"
+plant_length: "10-50"
 ---
 
 ![](/img/alchemilla-vulgaris-3.jpg)
@@ -33,7 +33,7 @@ Daggkåpans unda och milda blad kan delas och blandas i sallad.
 
 ## Odling
 
-Daggkåpan blir 10-40 cm. Den är flerårig och har en tjock träig jordstam och njurformade, flikiga blad. Daggkåpan växter på ängar och i skogar över hela landet. Daggkåpan blommar Maj - Juni.
+Daggkåpan blir 10-50 cm. Den är flerårig och har en tjock träig jordstam och njurformade, flikiga blad. Daggkåpan växer på ängar och i skogar över hela landet. Daggkåpan blommar maj-september.
 
 Daggkåpan växer gärna på soliga ställen med fuktig och kalkhaltig jord. Skörda plantan genom att klippa av stora blad, helst under blomningstiden. För förvaring kan löven torkas.
 
