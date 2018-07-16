@@ -4,9 +4,17 @@ subtitle: "Rubus árcticus"
 plant_length: "10-30"
 ---
 
+![](/img/rubus-arcticus-3.jpg)
+
 ## Generellt
 
+
+![](/img/rubus-arcticus-1.jpg)
+
 ## Användning
+
+
+![](/img/rubus-arcticus-2.jpg)
 
 ## Odling
 
