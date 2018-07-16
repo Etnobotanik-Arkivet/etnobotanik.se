@@ -1,6 +1,6 @@
 ---
-title: "Blåhallon"
-subtitle: "Rubus corylifólius"
+title: "Björnbär"
+subtitle: "Rubus plicatus"
 plant_length: "100-200"
 ---
 
