@@ -2,6 +2,7 @@
 title: "Åkerbär"
 subtitle: "Rubus árcticus"
 plant_length: "10-30"
+featured_image: "/img/rubus-arcticus-1.jpg"
 ---
 
 ![](/img/rubus-arcticus-3.jpg)
