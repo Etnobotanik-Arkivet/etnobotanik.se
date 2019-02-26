@@ -5,18 +5,16 @@
 			<span>{{ .Params.Subtitle }}</span>
 		</header>
 
-		{{ if isset .Params "gbif" }}
-			<script src="https://unpkg.com/gbif-map?module" type="module"></script>
-			<figure>
-				<gbif-map
-					gbif-id="{{ .Params.gbif }}"
-					center-latitude="62.759358"
-					center-longitude="15.614927"
-					zoom="4"
-				></gbif-map>
-				<figcaption>Utbredning i Norden. Via <a href="https://www.gbif.org/species/{{ .Params.gbif }}">GBIF</a>.</figcaption>
-			</figure>
-		{{ end }}
+		<script src="https://unpkg.com/gbif-map?module" type="module"></script>
+		<figure>
+			<gbif-map
+				gbif-query="{{ .File.TranslationBaseName }}"
+				center-latitude="62.759358"
+				center-longitude="15.614927"
+				zoom="4"
+			></gbif-map>
+			<figcaption>Utbredning i Norden. Via <a href="https://www.gbif.org/search?q={{ .File.TranslationBaseName }}">GBIF</a>.</figcaption>
+		</figure>
 
 		{{ .Content }}
 	</article>
