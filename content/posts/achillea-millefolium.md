@@ -11,7 +11,7 @@ plant_length: "15-60"
 
 ## Generellt
 
-Denna växt kanske skulle kunna beskrivas som växtrikes Jack Russell, eftersom den här lilla växten har så stor kraft. Ett enda ynka litet blad kan påskynda komposteringprocessen av ett helt kärrlast med komposteringsmaterial. Plantan i växande tillstånd håller närliggande plantor borta från sjukdom och lyfter också fram dessa plantors doft och smak. Avkok av plantan kan användas som gödsel.
+Rölleka skulle kunna beskrivas som växtrikes Jack Russell, eftersom den här lilla växten har så stor kraft. Ett enda ynka litet blad kan påskynda komposteringprocessen av ett helt kärrlast med komposteringsmaterial. Plantan i växande tillstånd håller närliggande plantor borta från sjukdom och lyfter också fram dessa plantors doft och smak. Avkok av plantan kan användas som gödsel.
 
 Röllekans rot avger sekret som förstärker närastående plantors sjukdomsresistens och deras värde som läkeörter. Röllekan själv har otroliga läkeegenskaper.
 
