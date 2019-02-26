@@ -51,11 +51,11 @@ main > article {
   color: hsl(41, 84%, 30%);
 }
 
-main > article  {
+.herb-article  {
   margin-top: 6rem;
 }
 
-main > article header {
+.herb-article header {
   display: flex;
   flex-flow: row nowrap;
   align-items: baseline;
