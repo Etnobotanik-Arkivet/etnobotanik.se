@@ -9,10 +9,13 @@
 	{{/* Derive the section name */}}
 	{{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-	<div class="grid">
+	<ul class="herbs-list">
 		 {{ range $section }}
 		 		{{ partial "summary.html" . }}
 		 {{ end }}
-	</div>
+	</ul>
+
+	{{ partial "donate.html" . }}
+
 	{{ end }}
 {{ end }}
